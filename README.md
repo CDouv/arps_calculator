@@ -1,3 +1,5 @@
+Working version. Not complete/verified working yet
+
 # arps_calculator
 Python scripts to calculate arps equations
 
